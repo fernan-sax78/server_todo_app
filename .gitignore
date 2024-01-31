@@ -11,9 +11,6 @@
 # Icon must end with two \r
 Icon
 
-#schema_database
-schema.sql
-
 # Thumbnails
 ._*
 
@@ -195,6 +192,9 @@ dist
 # Ignore all local history of files
 .history
 .ionide
+
+# Extras
+*.sql
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,node
 
